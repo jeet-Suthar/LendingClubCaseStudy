@@ -50,5 +50,5 @@ This project analyzes historical loan data from a finance company to identify ke
 
 
 ## Contact
-Created by [@jeet-Suthar] jitendra suthar (me) and shaurabh Jain. 
+Created by [@jeet-Suthar] jitendra suthar (me) and [@saurabh02]shaurabh Jain. 
 
